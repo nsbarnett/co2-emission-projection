@@ -1,4 +1,4 @@
-# CO2 Eissions Projection
+# 🌎 CO2 Eissions Projection
 
 A Python based ML practice project for importing and cleaning data, and utilizing various ML techniques to forecast CO2 emissions.
 
