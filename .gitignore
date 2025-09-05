@@ -1,0 +1,20 @@
+# Virtual envs
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# ML/data artifacts
+data/
+models/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Tools/caches
+.mypy_cache/
+ruff_cache/
+pytest_cache/
