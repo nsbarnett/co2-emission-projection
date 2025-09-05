@@ -1,7 +1,6 @@
-# ML Dev Template
+# CO2 Eissions Projection
 
-A reusable Python machine learning project template with testing, linting, and CI.  
-This repo provides a clean, professional structure for building ML projects that are easy to reproduce, maintain, and share.
+A Python based ML practice project for importing and cleaning data, and utilizing various ML techniques to forecast CO2 emissions.
 
 ---
 
